@@ -82,3 +82,6 @@ group :development, :test do
 end
 
 # ...
+
+gem "telegram-bot-ruby"
+gem "figaro"
